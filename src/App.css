@@ -1,0 +1,39 @@
+.BigBloc {
+  border-radius: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  margin: 10% 38%;
+  background-color: greenyellow;
+}
+.BigBloc1 {
+  font-size: xx-large;
+  margin-top: 12%;
+  display: flex;
+  justify-content: center;
+}
+.BigBloc2 {
+  margin: 3% 3%;
+  display: flex;
+  justify-content: center;
+}
+.BigBloc3 {
+  display: flex;
+  justify-content: center;
+  color: gray;
+}
+.btnS {
+  width: 100px;
+  height: 50px;
+  border-radius: 5%;
+}
+.btnR {
+  width: 100px;
+  height: 50px;
+  border-radius: 5%;
+}
+.btnR:hover {
+  background-color: red;
+}
+.btnS:hover {
+  background-color: green;
+}
